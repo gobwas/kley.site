@@ -1,0 +1,30 @@
+extends layout
+
+block content
+    header.header.l-line
+        .header-content.l-container
+            a(href='/').logo
+                h1
+                    img.logo-image(src='/images/static/logo/logo.png', title='КЛЕЙ | KLEY', alt='KLEY')
+    .media.l-line
+        .media-cotntent.l-container
+            .media-iframe
+                iframe(width="#{info.video.width}", height="#{info.video.height}", src="#{info.video.url}", frameborder="0", allowfullscreen)
+
+    .info.l-line
+        .info-content.l-container
+            ul.partners.partners--align-center
+                each partner, index in partners
+                    li.partners-item
+                        a.partners-link(href='#{partner.url}', title='#{partner.name}', target='_blank')
+                            img.partners-icon(src='#{partner.icon}', title='#{partner.name}', alt='KLEY | #{partner.name}')
+
+    footer.footer.l-line
+        .footer-content.l-container
+            ul.socials.socials--align-center
+                each social, index in socials
+                    li.socials-item
+                        a.socials-link(class='socials-link--type-#{social.name}', href='#{social.url}', title='#{social.name}', target='_blank')
+
+            .phone
+                .phone-content.font-styled= contact.phone

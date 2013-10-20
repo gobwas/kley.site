@@ -1,0 +1,79 @@
+{
+    "partners": [
+        {
+            "name": "bosco",
+            "icon": "/images/static/partners/bosco.png",
+            "url": "http://bosco.ru"
+        },
+        {
+            "name": "mega",
+            "icon": "/images/static/partners/mega.png",
+            "url": "http://mega.ru"
+        },
+        {
+            "name": "lookatme",
+            "icon": "/images/static/partners/lookatme.png",
+            "url": "http://lookatme.ru"
+        },
+        {
+            "name": "martini",
+            "icon": "/images/static/partners/martini.png",
+            "url": "http://martini.ru"
+        },
+        {
+            "name": "bacardi",
+            "icon": "/images/static/partners/bacardi.png",
+            "url": "http://bacardi.ru"
+        },
+        {
+            "name": "nike",
+            "icon": "/images/static/partners/nike.png",
+            "url": "http://nike.ru"
+        },
+        {
+            "name": "grolsch",
+            "icon": "/images/static/partners/grolsch.png",
+            "url": "http://grolsch.ru"
+        },
+        {
+            "name": "ikea",
+            "icon": "/images/static/partners/ikea.png",
+            "url": "http://ikea.ru"
+        }
+    ],
+
+    "socials": [
+        {
+            "name": "mail",
+            "url": "http://gmail.com/#kley"
+        },
+        {
+            "name": "facebook",
+            "url": "http://gmail.com/#kley"
+        },
+        {
+            "name": "behance",
+            "url": "http://gmail.com/#kley"
+        },
+        {
+            "name": "vimeo",
+            "url": "http://gmail.com/#kley"
+        },
+        {
+            "name": "youtube",
+            "url": "http://gmail.com/#kley"
+        }
+    ],
+
+    "contact": {
+        "phone": "+7 (926) 890-09-09"
+    },
+
+    "info": {
+        "video": {
+            "url": "//www.youtube.com/embed/uR98kZWA-k8",
+            "width": 677,
+            "height": 381
+        }
+    }
+}

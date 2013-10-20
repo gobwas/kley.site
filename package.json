@@ -1,0 +1,21 @@
+{
+  "name": "kley",
+  "version": "0.1.0",
+  "description": "Kley frontend page",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gobwas",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "*",
+    "jade": "*",
+    "stylus": "*",
+    "express": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-stylus": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-jade": "*"
+  }
+}

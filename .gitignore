@@ -1,0 +1,7 @@
+.idea
+.idea/*
+*.iml
+*.DS_Store
+public/fonts/*
+node_modules
+server
