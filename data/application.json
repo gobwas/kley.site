@@ -45,33 +45,33 @@
     "socials": [
         {
             "name": "mail",
-            "url": "http://gmail.com/#kley"
+            "url": "mailto:kleymedia@gmail.com"
         },
         {
             "name": "facebook",
-            "url": "http://gmail.com/#kley"
+            "url": "http://www.facebook.com/kleymedia"
         },
         {
             "name": "behance",
-            "url": "http://gmail.com/#kley"
+            "url": "http://www.behance.net/kleymedia"
         },
         {
             "name": "vimeo",
-            "url": "http://gmail.com/#kley"
+            "url": "http://vimeo.com/kley"
         },
         {
             "name": "youtube",
-            "url": "http://gmail.com/#kley"
+            "url": "http://www.youtube.com/user/kleymedia/videos"
         }
     ],
 
     "contact": {
-        "phone": "+7 (926) 890-09-09"
+        "phone": "+7 (929) 559-78-46"
     },
 
     "info": {
         "video": {
-            "url": "//www.youtube.com/embed/uR98kZWA-k8",
+            "url": "//player.vimeo.com/video/77418151",
             "width": 677,
             "height": 381
         }

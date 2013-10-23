@@ -16,7 +16,7 @@ block content
             ul.partners.partners--align-center
                 each partner, index in partners
                     li.partners-item
-                        a.partners-link(href='#{partner.url}', title='#{partner.name}', target='_blank')
+                        div.partners-link
                             img.partners-icon(src='#{partner.icon}', title='#{partner.name}', alt='KLEY | #{partner.name}')
 
     footer.footer.l-line
